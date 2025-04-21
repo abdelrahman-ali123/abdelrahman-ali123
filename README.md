@@ -1,6 +1,6 @@
 [![MasterHead](https://jelvix.com/wp-content/uploads/2019/08/59b7a2e25d6ec.jpg)](https://abdelrahman-ali123.io)
 <h1 align="center">Hi there 👋, I'm Abdelrahman Ali</h1>
-<h3 align="center">Biomedical Engineering Student at Cairo University from Egypt</h3>
+<h3 align="center">A Biomedical Engineering graduate from Cairo University</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/603800/screenshots/4569474/dribbble-code.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdelrahman-ali123&label=Profile%20views&color=0e75b6&style=flat" alt="abdelrahman-ali123" /> </p>
